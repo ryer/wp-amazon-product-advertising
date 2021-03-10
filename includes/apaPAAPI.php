@@ -1,36 +1,25 @@
 <?php
 
-require_once __DIR__ . '/Amazon_Product_Advertising_AwsV4.php';
+require_once __DIR__ . '/apaAwsV4.php';
 
 /**
  * @package Amazon_Product_Advertising
  * @see https://webservices.amazon.co.jp/paapi5/scratchpad/index.html
  */
-class Amazon_Product_Advertising_PAAPI
+class apaPAAPI
 {
-    /**
-     * @param array $params
-     * @return array
-     */
-    public static function searchItems(array $params)
+    public function searchItems(array $params)
     {
-        $serviceName = "ProductAdvertisingAPI";
-        $region = "us-west-2";
         $payload =
             "{" .
+            ' "PartnerType": "Associates",' .
             ' "Keywords": "' . $params['keywords'] . '",' .
             ' "PartnerTag": "' . $params['associate_tag'] . '",' .
-            ' "PartnerType": "Associates",' .
-            ' "Marketplace": "www.amazon.co.jp",' .
+            ' "Marketplace": "' . $params['market_place'] . '",' .
             ' "Resources": [' .
-            ' "Images.Primary.Small",' .
-            ' "Images.Primary.Medium",' .
-            ' "Images.Primary.Large",' .
-            ' "Offers.Summaries.LowestPrice",' .
-            ' "ItemInfo.Title",' .
-            ' "ItemInfo.ByLineInfo",' .
-            ' "ItemInfo.ManufactureInfo",' .
-            ' "ItemInfo.ProductInfo"' .
+            '   "Images.Primary.Medium",' .
+            '   "Offers.Summaries.LowestPrice",' .
+            '   "ItemInfo.Title"' .
             ' ]';
         if (isset($params['search_index'])) {
             $payload .= ',"SearchIndex":"' . $params['search_index'] . '"';
@@ -39,11 +28,13 @@ class Amazon_Product_Advertising_PAAPI
             $payload .= ',"BrowseNodeId":"' . $params['browse_node_id'] . '"';
         }
         $payload .= "}";
-        $host = "webservices.amazon.co.jp";
+
+        $host = $params['host'];
         $uriPath = "/paapi5/searchitems";
-        $awsv4 = new Amazon_Product_Advertising_AwsV4($params['access_key'], $params['secret_key']);
-        $awsv4->setRegionName($region);
-        $awsv4->setServiceName($serviceName);
+
+        $awsv4 = new apaAwsV4($params['access_key'], $params['secret_key']);
+        $awsv4->setRegionName($params['region']);
+        $awsv4->setServiceName('ProductAdvertisingAPI');
         $awsv4->setPath($uriPath);
         $awsv4->setPayload($payload);
         $awsv4->setRequestMethod("POST");
@@ -71,18 +62,18 @@ class Amazon_Product_Advertising_PAAPI
             return null;
         }
 
-        $response = @stream_get_contents($fp);
-        if ($response === false) {
+        $responseJson = @stream_get_contents($fp);
+        if ($responseJson === false) {
             error_log("searchItem error: failed to stream_get_contents");
             return null;
         }
 
-        $ret = json_decode($response, true);
-        if (!isset($ret['SearchResult'])) {
-            error_log("searchItem error: missing SearchResult");
+        $resp = json_decode($responseJson, true);
+        if (!isset($resp['SearchResult'])) {
+            error_log("searchItem panic: missing SearchResult");
             return null;
         }
 
-        return $ret['SearchResult'];
+        return $resp;
     }
 }

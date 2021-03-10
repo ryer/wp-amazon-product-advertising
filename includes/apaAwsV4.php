@@ -4,7 +4,7 @@
  * @package Amazon_Product_Advertising
  * @see https://webservices.amazon.co.jp/paapi5/scratchpad/index.html
  */
-class Amazon_Product_Advertising_AwsV4
+class apaAwsV4
 {
     private $accessKey = null;
     private $secretKey = null;

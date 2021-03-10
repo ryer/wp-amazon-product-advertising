@@ -1,0 +1,1497 @@
+array (
+  'SearchResult' => 
+  array (
+    'Items' => 
+    array (
+      0 => 
+      array (
+        'ASIN' => 'B07F3S4YV4',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B07F3S4YV4?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51Jkhr-lWpL.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51Jkhr-lWpL._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51Jkhr-lWpL._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '吹越満',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '城アンティア',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '円田はるか',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '笠松将',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '小南光司',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '吉岡睦雄',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '不二子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'クノ真季子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              8 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '川瀬陽太',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              9 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'サトウトシキ',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              10 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '加瀬仁美',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              11 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '森原俊朗',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+              12 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '小林良二',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2018-07-03T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => '名前のない女たち　～うそつき女～',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 500.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥500',
+              ),
+            ),
+          ),
+        ),
+      ),
+      1 => 
+      array (
+        'ASIN' => 'B00FHQ1PFG',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B00FHQ1PFG?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51tZKbmLPML.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51tZKbmLPML._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51tZKbmLPML._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '中山美穂',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '向井理',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '桐谷美玲',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '綾野剛',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'アマンダ・プラマー',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '北川悦吏子',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '北川悦吏子',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '橘田寿宏',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2013-11-26T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => '新しい靴を買わなくちゃ',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 400.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥400',
+              ),
+            ),
+          ),
+        ),
+      ),
+      2 => 
+      array (
+        'ASIN' => 'B07QZNRG9G',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B07QZNRG9G?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51GRS4MJuAL.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51GRS4MJuAL._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51GRS4MJuAL._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '波瑠',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '西島秀俊',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '岡山天音',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '深水元基',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '中村倫也',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '濱田マリ',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '橋本愛',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '柄本明',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              8 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '波多野貴文',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              9 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '吉田恵里香',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              10 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '安藤親広',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2019-04-26T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => 'オズランド　笑顔の魔法おしえます。',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 400.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥400',
+              ),
+            ),
+          ),
+        ),
+      ),
+      3 => 
+      array (
+        'ASIN' => 'B00FIWI12Y',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B00FIWI12Y?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/516XHD-wSEL.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/516XHD-wSEL._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/516XHD-wSEL._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '永作博美',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '松山ケンイチ',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '蒼井優',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '忍成修吾',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '井口奈己',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '本調有香',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '井口奈己',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2013-11-26T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => '人のセックスを笑うな',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 330.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥330',
+              ),
+            ),
+          ),
+        ),
+      ),
+      4 => 
+      array (
+        'ASIN' => 'B01LZ2PUOB',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B01LZ2PUOB?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51Wk1d4o5YL.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51Wk1d4o5YL._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51Wk1d4o5YL._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '西島秀俊',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '竹内結子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '川口春奈',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '東出昌大',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '香川照之',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '藤野涼子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '黒沢清',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '黒沢清',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              8 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '池田千尋',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2016-10-06T11:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => 'クリーピー 偽りの隣人',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 500.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥500',
+              ),
+            ),
+          ),
+        ),
+      ),
+      5 => 
+      array (
+        'ASIN' => 'B00N9C4LGK',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B00N9C4LGK?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51s9oMs2QHL.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51s9oMs2QHL._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51s9oMs2QHL._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '井上真央',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '綾野剛',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '蓮佛美沙子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '菜々緒',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '貫地谷しほり',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '金子ノブアキ',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '中村義洋',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '林民夫',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2014-09-03T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => '白ゆき姫殺人事件',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 2000.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥2,000',
+              ),
+            ),
+          ),
+        ),
+      ),
+      6 => 
+      array (
+        'ASIN' => 'B076B7F326',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B076B7F326?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51tim-g5f2L.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51tim-g5f2L._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51tim-g5f2L._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '池脇千鶴',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '中越典子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '中村優子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '岩瀬塔子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '加瀬亮',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '安藤政信',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '矢崎仁司',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '---',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              8 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '浅井隆',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+              9 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '---',
+                'Role' => 'クリエイター',
+                'RoleType' => 'creator',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2017-10-13T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => 'ストロベリーショートケイクス',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 2500.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥2,500',
+              ),
+            ),
+          ),
+        ),
+      ),
+      7 => 
+      array (
+        'ASIN' => 'B071K791CD',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B071K791CD?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51VjwAV9q6L.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51VjwAV9q6L._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51VjwAV9q6L._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'miwa',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '坂口健太郎',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '竜星涼',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '真野恵里菜',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '泉澤祐希',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '太田莉菜',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '大石吾朗',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '堀内敬子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              8 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '田辺誠一',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              9 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '月川翔',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              10 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '大島里美',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2017-06-23T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => '君と100回目の恋',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 400.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥400',
+              ),
+            ),
+          ),
+        ),
+      ),
+      8 => 
+      array (
+        'ASIN' => 'B07QRQBDFM',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B07QRQBDFM?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/519rmu-vxtL.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/519rmu-vxtL._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/519rmu-vxtL._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '北川景子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '千葉雄大',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '原田泰造',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '成田凌',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '田中圭',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'バカリズム',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '要潤',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '高橋メアリージュン',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              8 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '酒井健太',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              9 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '筧美和子',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              10 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '中田秀夫',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              11 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '大石哲也',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              12 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => '平野隆',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2019-04-17T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => 'スマホを落としただけなのに',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 2500.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥2,500',
+              ),
+            ),
+          ),
+        ),
+      ),
+      9 => 
+      array (
+        'ASIN' => 'B00YMNE7LY',
+        'DetailPageURL' => 'https://www.amazon.co.jp/dp/B00YMNE7LY?tag=AMAZON_ASSOCIATE_TAG&linkCode=osi&th=1&psc=1',
+        'Images' => 
+        array (
+          'Primary' => 
+          array (
+            'Large' => 
+            array (
+              'Height' => 500,
+              'URL' => 'https://m.media-amazon.com/images/I/51hf9HTtF4L.jpg',
+              'Width' => 375,
+            ),
+            'Medium' => 
+            array (
+              'Height' => 160,
+              'URL' => 'https://m.media-amazon.com/images/I/51hf9HTtF4L._SL160_.jpg',
+              'Width' => 120,
+            ),
+            'Small' => 
+            array (
+              'Height' => 75,
+              'URL' => 'https://m.media-amazon.com/images/I/51hf9HTtF4L._SL75_.jpg',
+              'Width' => 56,
+            ),
+          ),
+        ),
+        'ItemInfo' => 
+        array (
+          'ByLineInfo' => 
+          array (
+            'Contributors' => 
+            array (
+              0 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'スティーブ・カレル',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              1 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'ライアン・ゴズリング',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              2 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'ジュリアン・ムーア',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              3 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'エマ・ストーン',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              4 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'ジョン・キャロル・リンチ',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              5 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'マリサ・トメイ',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              6 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'ケビン・ベーコン',
+                'Role' => '出演',
+                'RoleType' => 'actor',
+              ),
+              7 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'グレン・フィカーラ、ジョン・レクア',
+                'Role' => '監督',
+                'RoleType' => 'director',
+              ),
+              8 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'ダン・フォーゲルマン',
+                'Role' => 'Writer',
+                'RoleType' => 'writer',
+              ),
+              9 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'スティーブ・カレル',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+              10 => 
+              array (
+                'Locale' => 'ja_JP',
+                'Name' => 'デニース・ディ・ノービ',
+                'Role' => 'プロデュース',
+                'RoleType' => 'producer',
+              ),
+            ),
+          ),
+          'ProductInfo' => 
+          array (
+            'IsAdultProduct' => 
+            array (
+              'DisplayValue' => false,
+              'Label' => 'IsAdultProduct',
+              'Locale' => 'en_US',
+            ),
+            'ReleaseDate' => 
+            array (
+              'DisplayValue' => '2013-11-26T00:00:00.000Z',
+              'Label' => 'ReleaseDate',
+              'Locale' => 'en_US',
+            ),
+          ),
+          'Title' => 
+          array (
+            'DisplayValue' => 'ラブ・アゲイン(吹替版)',
+            'Label' => 'Title',
+            'Locale' => 'ja_JP',
+          ),
+        ),
+        'Offers' => 
+        array (
+          'Summaries' => 
+          array (
+            0 => 
+            array (
+              'Condition' => 
+              array (
+                'Value' => 'New',
+              ),
+              'LowestPrice' => 
+              array (
+                'Amount' => 299.0,
+                'Currency' => 'JPY',
+                'DisplayAmount' => '￥299',
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+    'SearchURL' => 'https://www.amazon.co.jp/s?k=%E6%81%8B+%E6%84%9B&rh=p_n_availability%3A-1&tag=AMAZON_ASSOCIATE_TAG&linkCode=osi',
+    'TotalResultCount' => 146,
+  ),
+)
