@@ -80,7 +80,7 @@ class apaFrontend
         $items = array_slice($items, 0, $params['display_limit']);
         $items = apply_filters('amazon_pa_items', $items);
 
-        $content = '<ul class="amazon-pa">';
+        $content = '<section class="amazon-pa"><header><img class="amazon-logo" width="662" height="201" src="' . plugins_url('resources/amazon_logo.png', __DIR__) . '"></header><ul>';
 
         foreach ($items as $it) {
             $escTitle = htmlspecialchars(mb_strimwidth($it['ItemInfo']['Title']['DisplayValue'], 0, $params['trim_title_width'], '…', 'utf8'), ENT_QUOTES);
@@ -88,18 +88,19 @@ class apaFrontend
             <li>
                 <a href="{$it['DetailPageURL']}">
                     <img
+                        class="amazon-product"
                         alt="{$escTitle} image"
                         src="{$it['Images']['Primary']['Medium']['URL']}"
                         width="{$it['Images']['Primary']['Medium']['Width']}"
                         height="{$it['Images']['Primary']['Medium']['Height']}"
                         >
-                    <p>{$escTitle}</p>
+                    <p>{$escTitle} <span class="amazon-price">{$it['Offers']['Summaries'][0]['LowestPrice']['DisplayAmount']}</span></p>
                 </a>
             </li>
 ____________EOL;
         }
 
-        $content .= '</ul>';
+        $content .= '</ul></section>';
         return $content;
     }
 }
