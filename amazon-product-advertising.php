@@ -8,7 +8,7 @@
  * Author URI:      https://ryer.jp
  * Text Domain:     amazon-product-advertising
  * Domain Path:     /languages
- * Version:         1.0.0
+ * Version:         1.1.0
  *
  * @package         Amazon_Product_Advertising
  */
