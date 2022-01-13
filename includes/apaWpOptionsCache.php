@@ -33,7 +33,7 @@ class apaWpOptionsCache
     {
         $storage = ['timestamp' => time(), 'value' => $value];
         $frozen = str_replace('\\', '{@@@SLASH@@@}', serialize($storage));
-        update_option($this->makeCacheName($cacheKey), $frozen);
+        update_option($this->makeCacheName($cacheKey), $frozen, 'no');
     }
 
     private function makeCacheName($cacheKey)
